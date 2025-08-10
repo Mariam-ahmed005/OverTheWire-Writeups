@@ -8,4 +8,6 @@ Walkthrough:
 used the command ssh to connect to bandit.labs.overthewire.org on port 2220 
 
 Key learnings:
+- What is SSH
 - How to connect connect to a system.
+
